@@ -129,7 +129,8 @@ nexaula/
 
 ``bash
 # Clone o repositório
-git clone https://github.com/Luan-LL/nexaula.git
+git clone https://github.com/Luan-LL/Portfolio.git
+cd Portfolio/nexaula
 
 # Entre na pasta
 cd nexaula
