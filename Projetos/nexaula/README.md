@@ -127,7 +127,7 @@ nexaula/
 
 ### Instalação
 
-```bash
+``bash
 # Clone o repositório
 git clone https://github.com/seu-usuario/nexaula.git
 
@@ -163,7 +163,8 @@ npm run dev
  👨‍💻 Autor
 Feito por Luan — projeto de portfólio em desenvolvimento.
 
-LinkedIn 
+LinkedIn
+
 GitHub
 
 "A educação é a arma mais poderosa que você pode usar para mudar o mundo." — Nelson Mandela
